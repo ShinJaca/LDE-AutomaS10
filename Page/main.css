@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    font-family: monospace;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #313131;
+}
+.card {
+    box-sizing: border-box;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #383838;
+    width: 250px;
+    height: 480px;
+    overflow: scroll;
+}
+.card-effect3d{
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+.btncard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #383838;
+    width: 57px;
+    height: 80px;
+}
+.btn{
+    width: 42px;
+    height: 42px;
+    margin: 4px;
+    border: 1px solid #42f489;
+    border-radius: 2px;
+}
+.separator{
+    box-sizing: border-box;
+    width: 100%;
+    margin-top: 15px;
+    padding-left: 4px;
+    padding-top: 4px;
+    border-top: 1px solid gray;
+    text-align: left;
+    color: gray;
+    font-size: 15px;
+}
+.zone{
+    box-sizing: border-box;
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
