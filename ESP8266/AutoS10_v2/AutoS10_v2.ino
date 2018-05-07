@@ -242,6 +242,8 @@ String page = "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n"
   // Set GPIO2 according to the request
   digitalWrite(D4, toggleD4);
   digitalWrite(D3, toggleD3);
+  digitalWrite(D2, toggleD2);
+  digitalWrite(D1, toggleD1);
   
   client.flush();
 
