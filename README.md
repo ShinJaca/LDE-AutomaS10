@@ -18,3 +18,7 @@ O processo de gravação segue de forma padrão a partir daí.
 ## Page
 Prototipo da página servida pelo NodeMCU, o código contido nessa pagina deve ser convertido em uma String e copiado para o código do ESP.
 Esses arquivos servem para experimentar a página e fazer as devidas modificações antes que esta seja impantada no NodeMCU.
+
+## rawSend_mod
+
+Diretório de produção e teste da biblioteca de controle do Ar-Condicionado do S10, contém as bibliotecas de manipulação de infra-vermelho produzidas pela Adafruit, bem como a bibioteca especifica [acfunc.h](https://github.com/ShinJaca/LDE-AutomaS10/blob/master/rawSend_mod/acFuncs.h)
