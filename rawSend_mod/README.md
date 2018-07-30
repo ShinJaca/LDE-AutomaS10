@@ -7,3 +7,5 @@ do ar-condicionado instalado no Laboratório S10, e contemplam o básico necess�
 para um controle razoável, essas funções incluem ligar e desligar o dispositivo,
 e selecionar 3 temperaturas previamente programadas, escolidas por serem geralmente
 escolhidas no uso comum do dia-a-dia.
+
+Para uma documentação detalhada baixar [Documentação](https://github.com/ShinJaca/LDE-AutomaS10/tree/master/rawSend_mod/Docs/html)
